@@ -1,5 +1,11 @@
 # Deep Ellipse
 
+### Preview
+
+For a quick preview of the code and results from my last run you can view the jupyter notebook [directly](http://nbviewer.jupyter.org/github/syagev/deep-ellipse/blob/d4b7b9e2cd9088f60a8e639c612a24695b22a7bd/deep-ellipse.ipynb)
+
+For running it locally please follow the instructions below:
+
 ### Setup
 
 1. Clone this repo in some directory (e.g. 'deep-ellipse')
