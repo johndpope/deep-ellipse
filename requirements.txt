@@ -1,0 +1,9 @@
+keras
+tensorflow-gpu
+numpy
+matplotlib
+tqdm
+keras_tqdm
+opencv-python
+jupyter
+ipywidgets
